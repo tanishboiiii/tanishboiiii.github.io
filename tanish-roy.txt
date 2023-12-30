@@ -3,7 +3,7 @@
 Hello 👋
 <br> 
 <h1>I'm Tanish Roy</h1> 
-<p>I'm an 18 year-old student passionate about problem solving and coding. I started programming a year and a half ago and am familiar with Python, C, and the XAMPP web dev stack. I have a couple of projects show casing my skills (check out my github!). I have always been interested in numbers and find it fascinating how they show up in our day-to-day lives. More than just numbers and data I love solving practical real-world problems as they relate to one's everyday experiences. I have recently taken a hand at studying the Machine Learning and Artificial Intelligence space. I find it facinating how this emerging industry is being applied deeply within so many aspects of our lives, altering the way we interact with the world.</p>
+<p>I'm an 19 year-old student passionate about problem solving and coding. I started programming a year and a half ago and am familiar with Python, C, Java, and the XAMPP web dev stack. I have a couple of projects show casing my skills (check out my github!). I have always been interested in numbers and find it fascinating how they show up in our day-to-day lives. More than just numbers and data I love solving practical real-world problems as they relate to one's everyday experiences. I have recently taken a hand at studying the Machine Learning and Artificial Intelligence space. I find it facinating how this emerging industry is being applied deeply within so many aspects of our lives, altering the way we interact with the world.</p>
 
 <h3>Contact:</h3> 
 <ul>
